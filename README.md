@@ -1,5 +1,5 @@
 # ETW-DBG-ENUM
-Enumerates all ETW sessions from kernel structures
+Enumerates all ETW sessions from kernel structures in WinDBG
 
 Summary of what the Script Does
 
